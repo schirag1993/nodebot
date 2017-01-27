@@ -1,0 +1,19 @@
+{
+  "name": "nodebot",
+  "version": "0.0.1",
+  "description": "node bot using Microsoft's Bot Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schirag1993/nodebot.git"
+  },
+  "author": "chirag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schirag1993/nodebot/issues"
+  },
+  "homepage": "https://github.com/schirag1993/nodebot#readme"
+}
