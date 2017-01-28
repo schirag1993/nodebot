@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/schirag1993/nodebot#readme",
   "dependencies": {
+    "botbuilder": "^3.5.4",
     "forecast": "^0.3.2",
     "restify": "^4.3.0"
   }
