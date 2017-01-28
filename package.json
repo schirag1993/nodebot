@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/schirag1993/nodebot/issues"
   },
-  "homepage": "https://github.com/schirag1993/nodebot#readme"
+  "homepage": "https://github.com/schirag1993/nodebot#readme",
+  "dependencies": {
+    "forecast": "^0.3.2",
+    "restify": "^4.3.0"
+  }
 }
